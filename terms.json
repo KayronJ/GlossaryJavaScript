@@ -1,0 +1,18 @@
+[
+    {
+        "term": "Conhecendo JavaScript",
+        "definition": "JavaScript é uma linguagem de script orientada a objetos e plataforma cruzada usada para tornar as páginas da Web interativas (por exemplo, com animações complexas, botões clicáveis, menus pop-up etc.). Há também versões mais avançadas do lado do servidor do JavaScript, como Node.js. <br> <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Introduction' target='_blank'>Saiba mais aqui</a>."
+    },
+    {
+        "term": "O que é uma Variável",
+        "definition": "Uma variável é um contêiner para armazenar valores de dados. <br> <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Grammar_and_types' target='_blank'>Saiba mais aqui</a>."
+    },
+    {
+        "term": "Função em JavaScript",
+        "definition": "Uma função é um bloco de código projetado para realizar uma tarefa específica. <br> <a href='https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Functions' target='_blank'>Saiba mais aqui</a>."
+    },
+    {
+        "term": "Armazenamento de dado em Array",
+        "definition": "Um array é um objeto que armazena uma coleção de elementos. <br> <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array' target='_blank'>Saiba mais aqui</a>."
+    }
+]
